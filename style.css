@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+}
+
+
+
+.header{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+  
+}
+.img{
+  background-image: url('wood.jpg');  
+ color:darkslategray;
+ border:solid;
+ border-radius:60px;
+}
